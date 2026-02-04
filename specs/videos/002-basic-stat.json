@@ -1,0 +1,26 @@
+{
+  "id": "002-basic-stat",
+  "timing": { "fps": 30 },
+  "scenes": [
+    {
+      "type": "intro",
+      "durationInFrames": 90,
+      "meta": {
+        "title": "Faceless NFL",
+        "subtitle": "Automated stats → script → voice → video",
+        "tag": "Episode 002 • Stat Test"
+      }
+    },
+    {
+      "type": "stat",
+      "durationInFrames": 120,
+      "stat": {
+        "label": "Most Passing Yards",
+        "value": "5,316",
+        "player": "Peyton Manning",
+        "season": "2013"
+      }
+    },
+    { "type": "outro", "durationInFrames": 60 }
+  ]
+}

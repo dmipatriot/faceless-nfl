@@ -1,0 +1,18 @@
+{
+  "id": "001-intro",
+  "meta": {
+    "title": "Faceless NFL",
+    "subtitle": "Automated stats → script → voice → video",
+    "tag": "Episode 0011 • Test Render"
+  },
+  "timing": {
+    "fps": 30,
+    "durationInFrames": 150
+  },
+  "style": {
+    "background": "dark",
+    "accentA": "rgba(0,153,255,0.25)",
+    "accentB": "rgba(255,0,153,0.18)",
+    "accentC": "rgba(0,255,153,0.12)"
+  }
+}
